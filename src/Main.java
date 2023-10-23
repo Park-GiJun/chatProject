@@ -4,5 +4,6 @@ public class Main {
         
         System.out.println("HI");
         System.out.println("12");
+        System.out.println("abc");
     }
 }
